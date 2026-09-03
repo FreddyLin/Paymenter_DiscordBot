@@ -5,6 +5,7 @@ A full Discord bot integration for [Paymenter](https://paymenter.org), allowing 
 **Author:** Buster4126
 **Version:** 1.5
 **License:** Free — All rights reserved
+**Support:** [Discord](https://discord.gg/nk4xp9HBaU)
 
 ---
 
@@ -219,9 +220,3 @@ Additionally, if applicable:
 
 ### v1.4
 - Initial public release
-
----
-
-## Support
-
-Need help or found a bug? Join our Discord support server: https://discord.gg/nk4xp9HBaU
