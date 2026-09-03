@@ -219,3 +219,9 @@ Additionally, if applicable:
 
 ### v1.4
 - Initial public release
+
+---
+
+## Support
+
+Need help or found a bug? Join our Discord support server: https://discord.gg/nk4xp9HBaU
