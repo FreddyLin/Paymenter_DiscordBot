@@ -4,10 +4,7 @@ A full Discord bot integration for [Paymenter](https://paymenter.org), allowing 
 
 **Author:** Buster4126
 **Version:** 1.5
-**License:** Commercial — All rights reserved
-
-> **This is a paid extension.** A valid license is required for use in production.
-> Unauthorized redistribution or use without a valid license is strictly prohibited.
+**License:** Free — All rights reserved
 
 ---
 
